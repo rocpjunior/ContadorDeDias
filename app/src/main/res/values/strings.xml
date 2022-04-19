@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contador de Dias</string>
+    <string name="dias_restantes_para_o_terminar_o_ano">Dias restantes para o terminar o ano</string>
+    <string name="voce_vai_partcipar">Você vai partcipar?</string>
+    <string name="dias">Dias</string>
+    <string name="nao_confirmado">Não Confirmado</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="tv_date">01/01/2022</string>
+    <string name="tv_days">365 Dias</string>
+    <string name="text_Button">SIM/NÃO/NÃO CONFIRMADO</string>
+</resources>
